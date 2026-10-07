@@ -1,0 +1,25 @@
+# Oracle / SQL temporary files
+*.log
+*.log.*
+*.trc
+*.trm
+
+# Oracle SQL Developer files
+*.sql~
+*.xml.orig
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary / backup files
+*.bak
+*.tmp
+*~
