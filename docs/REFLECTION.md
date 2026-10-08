@@ -1,4 +1,4 @@
-# Reflection: Individual Assignment III
+# Reflection: Assignment III
 
 ## Firstly, What I Learned About GOTO
 
