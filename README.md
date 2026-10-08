@@ -15,7 +15,7 @@ It covers how GOTO works, when it is illegal, how to avoid it, and how to build 
 ---
 
 ## Repository Structure
-
+```
 plsql-goto-functions-20251SEN222-Jessica/
 ├── README.md
 ├── .gitignore
@@ -39,6 +39,7 @@ plsql-goto-functions-20251SEN222-Jessica/
 ├── screenshots/                   (output images for each task)
 └── docs/
     └── REFLECTION.md
+```
 
 ## What This Assignment Covers
 
